@@ -1,5 +1,5 @@
 import 'dotenv/config'
-import app from './app'
+import app from './app.js'
 import urlRoutes from './routes/urlRoutes.js'
 import redirectRoutes from './routes/redirectRoutes.js'
 
